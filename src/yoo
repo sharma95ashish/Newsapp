@@ -1,0 +1,7 @@
+<Link className="nav-Link active" aria-current="page" to="/" />business
+<Link className="nav-Link active" aria-current="page" to="/" />entertainment
+<Link className="nav-Link active" aria-current="page" to="/" />general
+<Link className="nav-Link active" aria-current="page" to="/" />health
+<Link className="nav-Link active" aria-current="page" to="/" />science
+<Link className="nav-Link active" aria-current="page" to="/" />sports
+<Link className="nav-Link active" aria-current="page" to="/" />technology
